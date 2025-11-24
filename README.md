@@ -1,6 +1,6 @@
-# Nature-
-About nature 
-# NatureBalance
+
+
+# NatureBalanc
 
 NatureBalance is a project inspired by the delicate balance found in nature. It aims to combine the concepts of harmony, calmness, and mindfulness into small, interactive scripts and programs. By exploring the natural balance of elements like light and shadow, movement and stillness, depth and surface, NatureBalance encourages reflection and thoughtful living in our fast-paced digital world.
 
